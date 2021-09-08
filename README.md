@@ -22,3 +22,4 @@ Uma plataforma de denúncia de diversos tipos de discriminação, tendo racismo 
 - como maximizar a confiabilidade em relação à identidade des denunciantes?
     - denúncias com evidências deveriam ter uma classificação diferente das que não as possuem?
 - como diferenciar denúncias de cunho pessoal e testemunhal?
+- como maximizar a confiabilidade de denúncias anônimas? Faz sentido que elas sejam, também, separadas entre pessoal e testemunhal?
