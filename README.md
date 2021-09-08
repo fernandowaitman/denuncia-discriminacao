@@ -9,7 +9,7 @@ Uma plataforma de denúncia de diversos tipos de discriminação, tendo racismo 
 - permitir, de maneira trivial, o compartilhamento em redes sociais, não só das ocorrências associadas a um estabelecimento ou marca específica, como de gráficos e métricas refletindo diversas perspectivas
 - mecanismo que, mediante aceitação des denunciantes, permitiria agrupar pessoas lesadas por um mesmo estabelecimento ou marca visando a possibilidade de ações coletivas de responsabilização/reparação
 - viabilizar, através da ação da imprensa e de entidades antirracistas, a pressão pública sobre os estabelecimentos ou marcas mais ofensoras, o que poderia gerar uma reação positiva por parte das acusadas ou, em caso de leniência, prejuízos legais e/ou desfinanciamentos
-- incentivar/facilitar denúncias, evitando assim com que parte significativa delas se oculte nas consciências indiviuais das pessoas discriminadas. O incentivo vem na medida em que as pessoas enxerguem nessa ferramenta um canal efetivo, capaz de gerar consequências tempestivas e efetivas para os estabelecimentos ou marcas ofensoras
+- incentivar/facilitar denúncias, evitando assim com que parte significativa dos eventos se oculte nas consciências indiviuais das pessoas discriminadas. O incentivo vem na medida em que as pessoas enxerguem nessa ferramenta um canal efetivo, capaz de gerar consequências tempestivas e efetivas para os estabelecimentos ou marcas ofensoras
 
 ## Possíveis extensões/evoluções:
 - público lgbtqia+
