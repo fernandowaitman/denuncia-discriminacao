@@ -24,6 +24,7 @@ Uma plataforma de denúncia de diversos tipos de discriminação, tendo racismo 
     - denúncias com evidências deveriam ter uma classificação diferente das que não as possuem?
 - como diferenciar denúncias de cunho pessoal e testemunhal?
 - como maximizar a confiabilidade de denúncias anônimas? Faz sentido que elas sejam, também, separadas entre pessoal e testemunhal?
+    - para fins legais, deve haver a preservação da identidade de cada pessoa denunciante em nível de sistema
 
 ## Deve conter - funcionalmente
 - direito de resposta às supostas ofensoras, sobre cada interação
