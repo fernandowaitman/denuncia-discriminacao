@@ -1,7 +1,7 @@
 # Denúncia Discriminação
 
 ## Ideia
-Uma plataforma de denúncia de diversos tipos de discriminação, tendo racismo como o primeiro MVP.
+Uma plataforma de denúnciapessoa  de diversos tipos de discriminação, tendo racismo como o primeiro MVP.
 
 ## Benefícios sociais
 - agregar e organizar reclamações, tendo assim efeito potencializador
@@ -32,7 +32,7 @@ Uma plataforma de denúncia de diversos tipos de discriminação, tendo racismo 
 - período de carência antes de uma denúncia constar nas métricas, partindo do princípio que as primeiras interações - se houverem - das supostas ofensoras devem ser decisivas para uma possível retirada de denúncia (?)
 - antes da publicação, o sistema deve alertar que, se não for verídica, a denúncia pode custar consequências legais à pessoa denunciante
 - monitoramento e suporte jurídico para garantir que as denunciadas não lancem mão de técnicas de intimidação para coagir pessoas a retirarem denúncias justas
-- preservação da identidade de cada pessoa denunciante, em nível de sistema, ainda que num contexto de "denúncia anônima" (para fins legais)
+- para fins legais, deve ser mantido internamente o vínculo da denúncia com a identidade da pessoa, ainda que num contexto de "denúncia anônima". A denunciante deve ser alertada sobre isso
 - integração trivial com as principais redes sociais, para que denúncias e métricas possam ser compartilhadas prontamente
 - notificação às pessoas denunciantes sobre outras denúncias ou eventos relevantes associados a sua denúncia
 - notificação aos estabelecimentos e marcas denunciadas (?)
