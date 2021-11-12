@@ -36,10 +36,12 @@ Uma plataforma de denúnciapessoa  de diversos tipos de discriminação, tendo r
 - integração trivial com as principais redes sociais, para que denúncias e métricas possam ser compartilhadas prontamente
 - notificação às pessoas denunciantes sobre outras denúncias ou eventos relevantes associados a sua denúncia
 - notificação aos estabelecimentos e marcas denunciadas (?)
+- aplicativo para dispositivos móveis, que possibilite notificação caso a pessoa esteja [1] em um estabelecimento/marca relativamente comprometido por denúncias
 
 ## Deve conter - tecnicamente
 - segurança contra ataques cibernéticos, especialmente em relação a ddos e segurança da base de dados (essa ferramenta deverá ser alvo preferencial de frentes reacionárias, potencialmente financiadas por grandes marcas afetadas)
 
 ---
 
+- [1] tecnicamente, significa estar por tempo pré-determinado em coordenadas convergentes
 - o marcador (?) indica que o item ainda precisa ser discutido e confirmado
