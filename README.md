@@ -9,7 +9,7 @@ Uma plataforma sem fins lucrativos, agregadora de denúncias de racismo praticad
 - notificar as pessoas que denunciaram um determinado estabelecimento ou marca, quando outras denúncias relacionadas vierem a ocorrer, gerando encorajamento e senso de pertencimento
 - permitir, de maneira trivial, o compartilhamento em redes sociais, não só das ocorrências associadas a um estabelecimento ou marca específica, como de gráficos e métricas refletindo diversas perspectivas
 - mecanismo que, mediante aceitação des denunciantes, permitiria agrupar pessoas lesadas por um mesmo estabelecimento ou marca visando a possibilidade de ações coletivas de responsabilização/reparação
-- viabilizar, através da ação da imprensa e de entidades antirracistas, a pressão pública sobre os estabelecimentos ou marcas mais ofensoras, o que poderia gerar uma reação positiva por parte das acusadas ou, em caso de leniência, prejuízos legais e/ou desfinanciamentos
+- viabilizar, através da ação da imprensa e de entidades antirracistas, a pressão pública sobre os estabelecimentos ou marcas mais ofensoras, o que poderia gerar uma reação positiva por parte das acusadas ou, em caso de leniência, prejuízos legais, prejuízos à imagem, desfinanciamento e boicote des consumidores
 
 ## Possíveis extensões/evoluções:
 - público lgbtqia+
