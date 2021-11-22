@@ -1,7 +1,7 @@
 # Denúncia Discriminação
 
 ## Ideia
-Uma plataforma sem fins lucrativos, agregadora de denúncias de racismo, compromissada com a publicidade e transparência dos dados, e a autenticidade das denúncias. Num segundo momento, poderia ser estendida também para outros tipos de discriminação.
+Uma plataforma sem fins lucrativos, agregadora de denúncias de racismo praticado por estabelecimentos, compromissada com a publicidade e transparência dos dados, e a autenticidade das denúncias. Num segundo momento, poderia ser estendida também para outros tipos de discriminação.
 
 ## Benefícios sociais
 - agregar e organizar reclamações, tendo assim efeito potencializador
